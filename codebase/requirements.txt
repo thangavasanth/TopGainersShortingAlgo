@@ -1,0 +1,8 @@
+ib_insync
+pandas
+xlwings
+schedule
+numpy
+nest_asyncio
+pytz
+pycryptodome
