@@ -47,10 +47,19 @@ Clone the repo → update Yaali_Algo_Trading.xlsm (caps, price range, RSI, TP/SL
 Launch IB Gateway → run python run.py → Excel UI opens and streams signals/portfolio.
 Start in paper mode; switch to live only after you’re comfortable.
 
+# https://buymeacoffee.com/vasanththangasamy)
+
 Call for collaborators:
 If you have ideas to improve entries/exits, risk controls, or broker coverage, please fork & PR. I’m happy to merge good additions and credit contributors.
 
-Important note:
-This is for educational purposes. Markets are risky; shorting is high-risk and can lose more than principal. Test thoroughly in paper trading and use your own judgment.
+⚠️ Disclaimer
+This project is shared for educational and research purposes only.
+It is not financial advice and should not be considered an invitation to buy, sell, or short any security.
+Trading, especially short-selling, involves substantial risk — including the risk of losing more than your initial capital. Past performance (such as win rates in testing) does not guarantee future results.
+Always:
+Use paper trading before going live.
+Understand the risks of margin accounts and leverage.
+Consult a licensed financial advisor if you are unsure.
+By using this code, you agree that I take no responsibility for any financial losses, damages, or outcomes resulting from its use.
 
 #excel #python #ibkr #trading #quant #xlwings #ibinsync #shortselling #opensource
